@@ -4,7 +4,7 @@ body{
     min-height: 100vh;
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: right;
     background: #0b1522;
 }
 
@@ -55,7 +55,7 @@ h1{
     position: relative;
     vertical-align: bottom;
     bottom: -100px;
-    right: 115px;
+    right: 338px;
     font-style: oblique;
 }
 
